@@ -1,0 +1,14 @@
+{
+  "globals": {
+    "title": "mz_harp_yeoman_gen",
+    "tagline": "mz harp yeoman generator",
+    "disqus": false,
+    "analytics": false,
+    "breakpoints": {
+      "small": 460,
+      "medium": 680,
+      "regular": 820,
+      "large": 1400
+    }
+  }
+}
